@@ -44,5 +44,5 @@ iv. Extension is going to send Connection request to everyone.
 
 
 ## Video Tutorial about How to install and Use LinkedIn AutoConnect extension.
-https://www.youtube.com/watch?v=NJriX8iL-y8
+[Press Ctrl and Click on this Video Tutorial Link](https://www.youtube.com/watch?v=NJriX8iL-y8)
 
