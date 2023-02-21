@@ -6,7 +6,7 @@ function contains(selector, text) {
 }
 
 function connectionFunction() {
-    var count = 0;
+    
     var acceptBtn = contains(".artdeco-button__text", "Connect");
     if (acceptBtn.length) {
         acceptBtn.forEach((btn) => {
