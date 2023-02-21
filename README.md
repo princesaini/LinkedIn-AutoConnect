@@ -34,7 +34,7 @@ Now you can see LinkedIn AutoConnect extension is successfully installed.
 
 i. Open just LinkedIn in Google Chrome. (Do not open any other tab).
 
-ii. Search anything you want e.g. "CEO".
+ii. Search anything you want e.g. "HR" and click on people.
 
 iii. Click on LinkedIn AutoConnect extension and click on "Start".
 ![Extension Start](https://ik.imagekit.io/prince123/LinkedInAutoConnect/Screenshot_20230221_113307.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677002617907)
@@ -44,4 +44,5 @@ iv. Extension is going to send Connection request to everyone.
 
 
 ## Video Tutorial about How to install and Use LinkedIn AutoConnect extension.
+https://www.youtube.com/watch?v=NJriX8iL-y8
 
